@@ -4,6 +4,4 @@ Bonuses:
 
 - Add a nice UI
 - Have functionality where a user can see all of their past searches
-
-
 ----
